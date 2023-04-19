@@ -1,7 +1,3 @@
-Dates (month/day/year): 02/01/1981 through 12/31/2022 ,,,,,,,,,,,,,,,,,,
-Location: Latitude  17.3763   Longitude 78.2989 ,,,,,,,,,,,,,,,,,,
-ALLSKY_SFC_SW_DWN     CERES SYN1deg All Sky Surface Shortwave Downward Irradiance (kW-hr/m^2/day) ,,,,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,,,,
 YEAR,MO,DY,Min Temp at 2 meters,Max temp at 2 meters,Specific Humidity,Relative Humidity,Precipitation Corrected,Wind Speed at 2 mts,Surface pressure,Wind Direction at 50 mts,Wind Speed at 50 mts RANGE,Wind speed at 50 mts,Wind Direction at 10 mts,Wind Speed at 10 mts Range,Wind Speed at 10 mts,Temp at 2 mts RANGE,Temp at 2 mts,ALLSKY_SFC_SW_DWN
 1981,2,1,14.38,32.01,5.07,31.88,0,1.87,94.94,286.5,4.51,4.84,287.31,1.62,2.98,-255.52,22.3,-999
 1981,2,2,11.62,31.44,3.72,25.75,0,1.89,94.98,40.25,6.09,5.18,39.38,2.44,3.04,-253.33,20.93,-999
